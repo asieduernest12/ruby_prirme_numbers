@@ -12,6 +12,8 @@ def isLastDigitThree(i)
  i.to_s[-1] == '3'
 end
 
+
+## find firts 10 prime numbers greater than 1000 where the last digit of each prime is equal to 3
 i= 1000
 count = 0
 
